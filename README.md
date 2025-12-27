@@ -1,41 +1,19 @@
-# Portfolio Practice
+# Web Dev Exercises
 
 ## 📖 Project Overview
-A collection of programming exercises and projects designed to build and showcase my coding skills and portfolio.
+Small practice projects focusing on frontend web development using HTML, CSS, JavaScript, and React.
 
 ## 🔨 Tech Stack
+- HTML
+- CSS
 - JavaScript
 - React
-- Node.js
-- HTML/CSS
 
 ## 🎉 Features
-- Various small projects demonstrating frontend and backend skills
-- Practice with React components and state management
-- API integration exercises
-
-## 📌 Notes
-- Continuously updated with new exercises
-- Focus on clean, readable code and best practices
-
-Freelance Samples
-
-# Freelance Samples
-
-## 📖 Project Overview
-Demo projects created to showcase my skills to potential freelance clients.
-
-## 🔨 Tech Stack
-- HTML/CSS
-- JavaScript
-- React
-- PHP
-
-## 🎉 Features
-- Responsive web designs
 - Interactive UI components
-- Backend integration examples
+- Responsive design practice
+- React hooks and state management exercises
 
 ## 📌 Notes
-- Projects tailored to client needs
-- Ready to customize for freelance proposals
+- Ideal for building foundational web development skills
+- Updated regularly with new exercises
